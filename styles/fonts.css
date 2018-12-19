@@ -1,9 +1,9 @@
 @font-face {
   font-family: "Bubbleboddy-Neue-Regular";
 
-  src: url("../fonts/BubbleboddyNeue-trial.ttf") format("ttf");
+  src: url("../BubbleboddyNeue-trial.woff") format("woff");
 }
 @font-face {
   font-family: "Bubbleboddy-Neue-Trial-thin";
-  src: url("../fonts/BubbleboddyNeueThin-trial.ttf") format("ttf");
+  src: url("../fonts/BubbleboddyNeueThin-trial.woff") format("woff");
 }
