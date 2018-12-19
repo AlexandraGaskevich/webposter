@@ -41,12 +41,13 @@
     text-align: center;
     font-family: Bubbleboddy Neue Regular, sans-serif;
     color: white;
+    margin-bottom: 10px;
   }
 
   .info h2 {
-    font-size: 25px;
+    margin-top: -10px;
+    font-size: 15px;
     text-align: center;
-    padding-top: 10px;
     font-family: Bubbleboddy Neue Trial thin, sans-serif;
     color: white;
   }
@@ -64,7 +65,7 @@
   }
 
   .contain-info ul {
-    padding-top: 10px;
+    padding-top: 20px;
     font-size: 19px;
     text-align: left;
    }
@@ -78,7 +79,7 @@
   }
 
   .goods {
-    margin-top: 20px;
+    margin-top: 40px;
     display: grid;
     grid-template-columns: 210px;
     grid-template-rows: 310px 310px 310px;
@@ -183,9 +184,8 @@
   }
 
   .info h2 {
-    font-size: 40px;
+    font-size: 25px;
     text-align: center;
-    padding-top: 10px;
     font-family: Bubbleboddy Neue Trial thin, sans-serif;
     color: white;
   }
@@ -217,7 +217,7 @@
   }
 
   .goods {
-    margin-top: 20px;
+    margin-top: 50px;
     display: grid;
     grid-template-columns: 300px;
     grid-template-rows: 420px 420px 420px;
@@ -327,7 +327,7 @@
   }
 
   .info h2 {
-    font-size: 45px;
+    font-size: 30px;
     text-align: center;
     padding-top: 10px;
     font-family: Bubbleboddy Neue Trial thin, sans-serif;
@@ -347,7 +347,7 @@
   }
 
   .contain-info ul {
-    padding-top: 20px;
+    padding-top: 30px;
     font-size: 33px;
     text-align: center;
    }
@@ -484,7 +484,7 @@
   }
 
   .info h2 {
-    font-size: 45px;
+    font-size: 30px;
     text-align: center;
     padding-top: 15px;
     font-family: Bubbleboddy Neue Trial thin, sans-serif;
@@ -504,7 +504,7 @@
   }
 
   .contain-info ul {
-    padding-top: 25px;
+    padding-top: 30px;
     font-size: 34.5px;
     text-align: center;
    }
