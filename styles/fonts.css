@@ -3,8 +3,7 @@
 
   src: url("../fonts/BubbleboddyNeue-trial.ttf") format("ttf");
 }
-
 @font-face {
-  font-family: "Bubbleboddy-Neue-Trial thin";
+  font-family: "Bubbleboddy-Neue-Trial-thin";
   src: url("../fonts/BubbleboddyNeueThin-trial.ttf") format("ttf");
 }
