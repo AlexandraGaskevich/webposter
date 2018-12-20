@@ -27,13 +27,13 @@
   }
 
   .star {
-    width: 320px;
+    width: 100vw;
   }
 
   .info {
     position: relative; z-index: 1;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 3.125vw;
+    padding-right: 3.125vw;
   }
 
   .info h1 {
@@ -41,11 +41,11 @@
     text-align: center;
     font-family: BubbleboddyNeue-trial, sans-serif;
     color: white;
-    margin-bottom: 10px;
+    margin-bottom: 1.76vh;
   }
 
   .info h2 {
-    margin-top: -10px;
+    margin-top: -1.76vh;
     font-size: 15px;
     text-align: center;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
@@ -53,9 +53,9 @@
   }
 
   .contain-info {
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-top: 1.76vh;
+    padding-left: 3.125vw;
+    padding-right: 3.125vw;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
   }
@@ -65,7 +65,7 @@
   }
 
   .contain-info ul {
-    padding-top: 20px;
+    padding-top: 1.76vh;
     font-size: 19px;
     text-align: left;
    }
@@ -79,32 +79,32 @@
   }
 
   .goods {
-    margin-top: 40px;
+    margin-top: 7.04vh;
     display: grid;
-    grid-template-columns: 210px;
-    grid-template-rows: 310px 310px 310px;
-    padding-left: 55px;
+    grid-template-columns: 65.625vw;
+    grid-template-rows: 54.577vh 54.577vh 54.577vh;
+    padding-left: 17.1875vw;
   }
 
   .red {
-    width: 210px;
+    width: 65.625vw;
   }
 
   .white {
-    width: 210px;
+    width: 65.625vw;
   }
 
   .yellow {
-    width: 210px;
+    width: 65.625vw;
   }
 
   .blue {
-    width: 210px;
+    width: 65.625vw;
   }
 
   .four {
     position: relative; z-index: 2;
-    margin-bottom: 20px;
+    margin-bottom: 3.521vh;
   }
 
   .goods p {
@@ -119,13 +119,13 @@
   }
 
   .ground {
-    margin-top: -100px;
-    width: 320px;
+    margin-top: -17.6vh;
+    width: 100vw;
     position: absolute;
   }
 
   .container {
-    width: 320px;
+    width: 100vw;
     background-color: black;
   }
 
@@ -141,8 +141,8 @@
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 6.25vw;
+    padding-right: 6.25vw;
   }
 
 }
@@ -167,13 +167,13 @@
   }
 
   .star {
-    width: 768px;;
+    width: 100vw;;
   }
 
   .info {
     position: relative; z-index: 1;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 1.302vw;
+    padding-right: 1.302vw;
   }
 
   .info h1 {
@@ -191,9 +191,9 @@
   }
 
   .contain-info {
-    padding-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-top: 1.95vh;
+    padding-left: 1.302vw;
+    padding-right: 1.302vw;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
   }
@@ -203,7 +203,7 @@
   }
 
   .contain-info ul {
-    padding-top: 30px;
+    padding-top: 2.93vh;
     font-size: 30.5px;
     text-align: center;
    }
@@ -217,27 +217,27 @@
   }
 
   .goods {
-    margin-top: 50px;
+    margin-top: 4.88vh;
     display: grid;
-    grid-template-columns: 300px;
-    grid-template-rows: 420px 420px 420px;
-    padding-left: 234px;
+    grid-template-columns: 39.06vw;
+    grid-template-rows: 41.016vh 41.016vh 41.016vh;
+    padding-left: 30.47vw;
   }
 
   .red {
-    width: 300px;
+    width: 39.06vw;
   }
 
   .white {
-    width: 300px;
+    width: 39.06vw;
   }
 
   .yellow {
-    width: 300px;
+    width: 39.06vw;
   }
 
   .blue {
-    width: 300px;
+    width: 39.06vw;
   }
 
   .three {
@@ -245,7 +245,7 @@
   }
   .four {
     position: relative; z-index: 2;
-    margin-bottom: 40px;
+    margin-bottom: 3.91vh;
   }
 
   .goods p {
@@ -256,18 +256,18 @@
   }
 
   .goods p.hover {
-    padding-top: 5px;
+    padding-top: 0.5vh;
     font-size: 20px;
   }
 
   .ground {
-    width: 768px;
+    width: 100vw;
     position: absolute;
-    margin-top: -300px;
+    margin-top: -29.3vh;
   }
 
   .container {
-    width: 768px;
+    width: 100vw;
     background-color: black;
   }
 
@@ -283,8 +283,8 @@
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 2.6vw;
+    padding-right: 2.6vw;
   }
 
 }
@@ -309,14 +309,14 @@
   }
 
   .star {
-    width: 1024px;;
+    width: 100vw;;
   }
 
   .info {
-    margin-top: -135px;
+    margin-top: -9.9vh;
     position: relative; z-index: 1;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 0.98vw;
+    padding-right: 0.98vw;
   }
 
   .info h1 {
@@ -329,15 +329,15 @@
   .info h2 {
     font-size: 30px;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 0.73vh;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
   }
 
   .contain-info {
-    padding-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-top: 1.46vh;
+    padding-left: 0.98vw;
+    padding-right: 0.98vw;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
   }
@@ -347,7 +347,7 @@
   }
 
   .contain-info ul {
-    padding-top: 30px;
+    padding-top: 2.196vh;
     font-size: 33px;
     text-align: center;
    }
@@ -361,31 +361,31 @@
   }
 
   .goods {
-    margin-top: 20px;
+    margin-top: 1.46vh;
     display: grid;
-    grid-template-columns: 380px 380px;
-    grid-template-rows: 455px 455px;
-    padding-left: 132px;
+    grid-template-columns: 37.11vw 37.11vw;
+    grid-template-rows: 33.3vh 33.3vh;
+    padding-left: 12.89vw;
   }
 
   .red {
-    padding-left: 40px;
-    width: 300px;
+    padding-left: 3.905vw;
+    width: 29.3vw;
   }
 
   .white {
-    padding-left: 40px;
-    width: 300px;
+    padding-left: 3.905vw;
+    width: 29.3vw;
   }
 
   .yellow {
-    padding-left: 40px;
-    width: 300px;
+    padding-left: 3.905vw;
+    width: 29.3vw;
   }
 
   .blue {
-    padding-left: 40px;
-    width: 300px;
+    padding-left: 3.905vw;
+    width: 29.3vw;
   }
 
   .one {
@@ -412,25 +412,25 @@
   }
 
   .goods p.hover {
-    padding-top: 10px;
+    padding-top: 0.73vh;
     font-size: 25px;
   }
 
   .ground {
-    width: 1024px;
+    width: 100vw;
     position: absolute;
-    margin-top: -400px;
+    margin-top: -29.3vh;
   }
 
   .container {
-    width: 1024px;
+    width: 100vw;
     background-color: black;
   }
 
   .menu {
     background-color: black;
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 1.46vh;
   }
 
   .menu ul {
@@ -440,8 +440,8 @@
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 1.95vw;
+    padding-right: 1.95vw;
   }
 
 }
@@ -466,14 +466,15 @@
   }
 
   .star {
-    width: 1440px;
+    width: 100vw;
+    position: relative; z-index: 1
   }
 
   .info {
-    margin-top: -190px;
-    position: relative; z-index: 1;
-    padding-left: 10px;
-    padding-right: 10px;
+    margin-top: -21.1vh;
+    position: relative; z-index: 2;
+    padding-left: 0.7vw;
+    padding-right: 0.7vw;
   }
 
   .info h1 {
@@ -486,15 +487,15 @@
   .info h2 {
     font-size: 30px;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 1.67vh;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
   }
 
   .contain-info {
-    padding-top: 25px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-top: 2,78vh;
+    padding-left: 0.7vw;
+    padding-right: 0.7vw;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
   }
@@ -504,7 +505,7 @@
   }
 
   .contain-info ul {
-    padding-top: 30px;
+    padding-top: 3.33vh;
     font-size: 34.5px;
     text-align: center;
    }
@@ -518,47 +519,47 @@
   }
 
   .goods {
-    margin-top: 20px;
+    margin-top: 2.22vh;
     display: grid;
-    grid-template-columns: 330px 330px 330px 330px;
-    grid-template-rows: 455px;
-    padding-left: 60px;
+    grid-template-columns: 22.9vw 22.9vw 22.9vw 22.9vw;
+    grid-template-rows: 50.56vh;
+    padding-left: 4.2vw;
   }
 
   .red {
-    padding-left: 40px;
-    width: 250px;
+    padding-left: 2.77vw;
+    width: 17.36vw;
   }
 
   .white {
-    padding-left: 40px;
-    width: 250px;
+    padding-left: 2.77vw;
+    width: 17.36vw;
   }
 
   .yellow {
-    padding-left: 40px;
-    width: 250px;
+    padding-left: 2.77vw;
+    width: 17.36vw;
   }
 
   .blue {
-    padding-left: 40px;
-    width: 250px;
+    padding-left: 2.77vw;
+    width: 17.36vw;
   }
 
   .one {
-    position: relative; z-index: 2;
-  }
-
-  .two {
     position: relative; z-index: 3;
   }
 
-  .three {
+  .two {
     position: relative; z-index: 4;
   }
 
-  .four {
+  .three {
     position: relative; z-index: 5;
+  }
+
+  .four {
+    position: relative; z-index: 6;
   }
 
   .goods p {
@@ -569,14 +570,14 @@
   }
 
   .goods p.hover {
-    padding-top: 10px;
+    padding-top: 1.11vh;
     font-size: 28px;
   }
 
   .ground {
-    width: 1440px;
+    width: 100vw;
     position: absolute;
-    margin-top: -550px;
+    margin-top: -70vh;
   }
 
   .container {
@@ -596,8 +597,8 @@
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 1.39vw;
+    padding-right: 1.39vw;
   }
 
 }
