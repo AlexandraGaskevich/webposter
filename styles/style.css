@@ -37,7 +37,7 @@
   }
 
   .info h1 {
-    font-size: 43.5px;
+    font-size: 13.6vw;
     text-align: center;
     font-family: BubbleboddyNeue-trial, sans-serif;
     color: white;
@@ -46,7 +46,7 @@
 
   .info h2 {
     margin-top: -1.76vh;
-    font-size: 15px;
+    font-size: 4.6875vw;
     text-align: center;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
@@ -61,12 +61,12 @@
   }
 
   .contain-info p {
-    font-size: 19px;
+    font-size: 5.9375vw;
   }
 
   .contain-info ul {
     padding-top: 1.76vh;
-    font-size: 19px;
+    font-size: 5.9375vw;
     text-align: left;
    }
 
@@ -111,11 +111,11 @@
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
     text-align: center;
-    font-size: 25px;
+    font-size: 7.8125vw;
   }
 
   .goods p.hover {
-    font-size: 15px;
+    font-size: 4.6875vw;
   }
 
   .ground {
@@ -136,7 +136,7 @@
 
   .menu ul {
     position: relative;
-    font-size: 15px;
+    font-size: 4.6875vw;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     display: flex;
     justify-content: space-between;
@@ -177,14 +177,14 @@
   }
 
   .info h1 {
-    font-size: 65px;
+    font-size: 8.46vw;
     text-align: center;
     font-family: BubbleboddyNeue-trial, sans-serif;
     color: white;
   }
 
   .info h2 {
-    font-size: 25px;
+    font-size: 3.25vw;
     text-align: center;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
@@ -199,12 +199,12 @@
   }
 
   .contain-info p {
-    font-size: 30.5px;
+    font-size: 3.97vw;
   }
 
   .contain-info ul {
     padding-top: 2.93vh;
-    font-size: 30.5px;
+    font-size: 3.97vw;
     text-align: center;
    }
 
@@ -252,12 +252,12 @@
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
     text-align: center;
-    font-size: 30.5px;
+    font-size: 3.97vw;
   }
 
   .goods p.hover {
     padding-top: 0.5vh;
-    font-size: 20px;
+    font-size: 2.6vw;
   }
 
   .ground {
@@ -278,7 +278,7 @@
 
   .menu ul {
     position: relative;
-    font-size: 20px;
+    font-size: 2.6vw;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     display: flex;
     justify-content: space-between;
@@ -320,14 +320,14 @@
   }
 
   .info h1 {
-    font-size: 85px;
+    font-size: 8.3vw;
     text-align: center;
     font-family: BubbleboddyNeue-trial, sans-serif;
     color: white;
   }
 
   .info h2 {
-    font-size: 30px;
+    font-size: 2.93vw;
     text-align: center;
     padding-top: 0.73vh;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
@@ -343,12 +343,12 @@
   }
 
   .contain-info p {
-    font-size: 33px;
+    font-size: 3.2vw;
   }
 
   .contain-info ul {
     padding-top: 2.196vh;
-    font-size: 33px;
+    font-size: 3.2vw;
     text-align: center;
    }
 
@@ -408,12 +408,12 @@
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
     text-align: center;
-    font-size: 33px;
+    font-size: 3.2vw;
   }
 
   .goods p.hover {
     padding-top: 0.73vh;
-    font-size: 25px;
+    font-size: 2.4vw;
   }
 
   .ground {
@@ -435,7 +435,7 @@
 
   .menu ul {
     position: relative;
-    font-size: 25px;
+    font-size: 2.4vw;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     display: flex;
     justify-content: space-between;
@@ -478,14 +478,14 @@
   }
 
   .info h1 {
-    font-size: 85px;
+    font-size: 5.9vw;
     text-align: center;
     font-family: BubbleboddyNeue-trial, sans-serif;
     color: white;
   }
 
   .info h2 {
-    font-size: 30px;
+    font-size: 2.08vw;
     text-align: center;
     padding-top: 1.67vh;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
@@ -501,12 +501,12 @@
   }
 
   .contain-info p {
-    font-size: 34.5px;
+    font-size: 2.4vw;
   }
 
   .contain-info ul {
     padding-top: 3.33vh;
-    font-size: 34.5px;
+    font-size: 2.4vw;
     text-align: center;
    }
 
@@ -566,12 +566,12 @@
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     color: white;
     text-align: center;
-    font-size: 34.5px;
+    font-size: 2.4vw;
   }
 
   .goods p.hover {
     padding-top: 1.11vh;
-    font-size: 28px;
+    font-size: 1.94vw;
   }
 
   .ground {
@@ -581,7 +581,7 @@
   }
 
   .container {
-    width: 768px;
+    width: 53.3vw;
     background-color: black;
   }
 
@@ -592,7 +592,7 @@
 
   .menu ul {
     position: relative;
-    font-size: 28px;
+    font-size: 1.94vw;
     font-family: BubbleboddyNeueThin-trial, sans-serif;
     display: flex;
     justify-content: space-between;
